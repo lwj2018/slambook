@@ -23,3 +23,7 @@ just one more time
 这是在dev分支上的改动
 
 不如再看看
+
+##bug 分支
+
+假装修复了一个bug
