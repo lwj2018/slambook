@@ -5,3 +5,5 @@
 creating a new branch is quick
 
 再测试一次切换分支
+
+master上的分支切换测试
