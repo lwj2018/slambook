@@ -55,6 +55,6 @@ int main() {
     v_rotated = q*v; // 注意数学上是 qvq^{-1}
     cout << "(1,0,0) after rotation = " << v_rotated.transpose()<<endl;
 
-    
+
     return 0;
 }
